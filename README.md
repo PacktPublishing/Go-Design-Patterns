@@ -4,7 +4,7 @@ This is the code repository for [Go Design Patterns](https://www.packtpub.com/ap
 This book will take you through the history of concurrency, how Go utilizes it, how Go differs from other languages, and the features and structures of Go's concurrency core. Each step of the way, the book will present real, usable examples with detailed descriptions of the methodologies used. By the end, you will feel comfortable designing a safe, data-consistent, high-performance concurrent application in Go.
 
 
-##Instructions and Navigation
+## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
