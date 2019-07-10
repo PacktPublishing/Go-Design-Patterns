@@ -25,7 +25,7 @@ func main() {
 
 Most of the chapters in this book are written following a simple TDD approach, here the requirements are written first, followed by some unit tests and finally the code that satisfies those requirements. We will use only tools that comes with the standard library of Go as a way to better understand the language and its possibilities. This idea is key to follow the book and understanding the way that Go solves problems, especially in distributed systems and concurrent applications.
 
-##Related Products
+## Related Products
 * [Building Your First Application with Go [Video]](https://www.packtpub.com/application-development/building-your-first-application-go-video?utm_source=github&utm_medium=repository&utm_campaign=9781783283811)
 
 * [Learning Go Programming](https://www.packtpub.com/application-development/learning-go-programming?utm_source=github&utm_medium=repository&utm_campaign=9781784395438)
