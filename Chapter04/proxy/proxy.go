@@ -23,7 +23,7 @@ func (t *UserList) FindUser(id int32) (User, error) {
 		}
 	}
 
-	return User{}, fmt.Errorf("User %s could not be found\n", id)
+	return User{}, fmt.Errorf("User %d could not be found\n", id)
 }
 
 //AddUser adds a new user to the end of the Users slice
